@@ -1,5 +1,5 @@
 {
-  "name": "Focus v.2",
+  "name": "LIMBO [Part 1]",
   "description": "",
   "version": 1.71,
   "scrollSpeed": 2.4,
@@ -2965,14 +2965,6 @@
     },
     {
       "type": "colorTile",
-      "x": 1719.92,
-      "y": -75.6,
-      "s": -4,
-      "color": "#de89f1",
-      "l": 2
-    },
-    {
-      "type": "colorTile",
       "x": 1779.92,
       "y": -75.6,
       "s": -4,
@@ -3225,6 +3217,39 @@
       "y": -76,
       "s": -4,
       "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "Spikes",
+      "x": 1674,
+      "y": -20,
+      "a": 4.712,
+      "s": -0.7,
+      "fY": true,
+      "l": 2
+    },
+    {
+      "type": "Spikes",
+      "x": 1722,
+      "y": 29,
+      "s": -0.7,
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1720,
+      "y": -77,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 1524,
+      "y": -21,
+      "s": -0.9,
+      "fX": true,
+      "fY": true,
       "l": 2
     }
   ],
