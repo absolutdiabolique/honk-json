@@ -19,7 +19,7 @@
   "bullets": [],
   "bulletTriggers": [],
   "layers": {
-    "currentLayer": 1,
+    "currentLayer": 2,
     "maxLayers": 3
   },
   "genericObjects": [
@@ -2859,7 +2859,7 @@
     {
       "type": "colorTile",
       "x": 1303,
-      "y": 354,
+      "y": 348,
       "s": -4,
       "color": "#393fd3",
       "l": 2
@@ -2952,22 +2952,6 @@
       "l": 2
     },
     {
-      "type": "colorTile",
-      "x": 1518,
-      "y": 216,
-      "s": -4,
-      "color": "#393fd3",
-      "l": 2
-    },
-    {
-      "type": "colorTile",
-      "x": 1518,
-      "y": 383,
-      "s": -4,
-      "color": "#de89f1",
-      "l": 2
-    },
-    {
       "type": "Spikes",
       "x": 1595,
       "y": -52,
@@ -3024,8 +3008,8 @@
     },
     {
       "type": "colorTile",
-      "x": 1745,
-      "y": 201,
+      "x": 1740,
+      "y": 200,
       "s": -4,
       "color": "#393fd3",
       "l": 2
@@ -3206,6 +3190,203 @@
       "s": -0.9,
       "fX": true,
       "fY": true,
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1519,
+      "y": 398,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "Spikes",
+      "x": 1521,
+      "y": 314,
+      "s": -0.7,
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1523,
+      "y": 211,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1467,
+      "y": 180,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1466,
+      "y": 654,
+      "z": 4,
+      "s": 10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1979.6,
+      "y": 603,
+      "z": 4,
+      "s": 10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1522,
+      "y": 139,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1582,
+      "y": 128,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1643,
+      "y": 124,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1643.1,
+      "y": 124,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1704,
+      "y": 95,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1467,
+      "y": -344,
+      "z": 4,
+      "s": 10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1980.6,
+      "y": -344,
+      "z": 4,
+      "s": 10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1867,
+      "y": 358,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1943,
+      "y": 142,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1944,
+      "y": 306,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1944,
+      "y": -28,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1765,
+      "y": 77,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1836,
+      "y": 89,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1913,
+      "y": 89,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorBlock",
+      "x": 1982,
+      "y": 89,
+      "z": 1,
+      "s": -10,
+      "color": "#ff0000",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1595,
+      "y": 462,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1520,
+      "y": 575,
+      "s": -4,
+      "color": "#393fd3",
       "l": 2
     }
   ],
