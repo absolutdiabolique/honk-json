@@ -19,7 +19,7 @@
   "bullets": [],
   "bulletTriggers": [],
   "layers": {
-    "currentLayer": 2,
+    "currentLayer": 1,
     "maxLayers": 3
   },
   "genericObjects": [
@@ -1610,28 +1610,6 @@
     {
       "type": "PipeBody",
       "x": 747,
-      "y": 321,
-      "eM": true,
-      "mS": 4,
-      "mA": 1.571,
-      "eMR": true,
-      "mR": 1200,
-      "rMR": true
-    },
-    {
-      "type": "PipeBody",
-      "x": 747,
-      "y": 421,
-      "eM": true,
-      "mS": 4,
-      "mA": 1.571,
-      "eMR": true,
-      "mR": 1200,
-      "rMR": true
-    },
-    {
-      "type": "PipeBody",
-      "x": 747,
       "y": 521,
       "eM": true,
       "mS": 4,
@@ -1655,28 +1633,6 @@
       "type": "PipeBody",
       "x": 747,
       "y": 721,
-      "eM": true,
-      "mS": 4,
-      "mA": 1.571,
-      "eMR": true,
-      "mR": 1200,
-      "rMR": true
-    },
-    {
-      "type": "PipeBody",
-      "x": 747,
-      "y": 821,
-      "eM": true,
-      "mS": 4,
-      "mA": 1.571,
-      "eMR": true,
-      "mR": 1200,
-      "rMR": true
-    },
-    {
-      "type": "PipeBody",
-      "x": 747,
-      "y": 21,
       "eM": true,
       "mS": 4,
       "mA": 1.571,
