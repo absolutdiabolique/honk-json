@@ -3131,8 +3131,8 @@
     },
     {
       "type": "colorTile",
-      "x": 1944,
-      "y": -117,
+      "x": 1952,
+      "y": -170,
       "s": -4,
       "color": "#de89f1",
       "l": 2
@@ -3221,7 +3221,8 @@
       "dS": 0,
       "mR": 75,
       "direction": "up",
-      "st": "moving_up"
+      "st": "moving_up",
+      "z": 4
     },
     {
       "type": "rock2",
@@ -3304,7 +3305,8 @@
       "type": "iceBlock",
       "x": 1478.9,
       "y": -103,
-      "fY": true
+      "fY": true,
+      "z": 4
     },
     {
       "type": "PipeBody",
@@ -3757,6 +3759,92 @@
       "eMR": true,
       "mR": 1200,
       "rMR": true
+    },
+    {
+      "type": "invincibilityStar",
+      "x": 133,
+      "y": 273,
+      "invincibilityDuration": 11
+    },
+    {
+      "type": "thwompPipe",
+      "x": 2028,
+      "y": -166,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "fY": true
+    },
+    {
+      "type": "colorTile",
+      "x": 2022,
+      "y": -122,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
+    },
+    {
+      "type": "iceBlock",
+      "x": 1965,
+      "y": -117,
+      "fY": true,
+      "z": 4
+    },
+    {
+      "type": "colorTile",
+      "x": 2022,
+      "y": -300,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1887,
+      "y": -262,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "Spikes",
+      "x": 1821,
+      "y": -123,
+      "s": -0.7,
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1819,
+      "y": -233,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1753,
+      "y": -262,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "Spikes",
+      "x": 1701,
+      "y": -114,
+      "s": -0.7,
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1697,
+      "y": -223,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
     }
   ],
   "finishLineX": 2329,
