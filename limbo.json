@@ -3572,6 +3572,38 @@
       "direction": "up",
       "st": "moving_up",
       "fY": true
+    },
+    {
+      "type": "colorTile",
+      "x": 1992.08,
+      "y": 187,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 2015.16,
+      "y": -123,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 2019.08,
+      "y": -300,
+      "s": -4,
+      "color": "#de89f1",
+      "l": 2
+    },
+    {
+      "type": "colorTile",
+      "x": 1952,
+      "y": -345,
+      "s": -4,
+      "color": "#393fd3",
+      "l": 2
     }
   ],
   "finishLineX": 2329,
