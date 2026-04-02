@@ -10,7 +10,7 @@
   "gradientBottomColor": "#000000",
   "disableBackgroundMusic": false,
   "midiConfig": {
-    "restartOnDeath": false,
+    "restartOnDeath": true,
     "volume": 100
   },
   "birdStartX": 100,
@@ -4182,6 +4182,66 @@
       "s": -4,
       "color": "#393fd3",
       "l": 2
+    },
+    {
+      "type": "thwompPipe",
+      "x": 1421,
+      "y": 378,
+      "a": 1.571,
+      "z": 0.5,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up"
+    },
+    {
+      "type": "thwompPipe",
+      "x": 1666,
+      "y": 378,
+      "a": 1.571,
+      "z": 0.5,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up"
+    },
+    {
+      "type": "thwompPipe",
+      "x": 1884,
+      "y": 351,
+      "a": 1.571,
+      "z": 0.5,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up"
+    },
+    {
+      "type": "thwompPipe",
+      "x": 1424,
+      "y": -173,
+      "a": 1.571,
+      "z": 0.5,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up"
+    },
+    {
+      "type": "thwompPipe",
+      "x": 1866,
+      "y": -283,
+      "a": 1.571,
+      "z": 0.5,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up"
     }
   ],
   "finishLineX": 2329,
