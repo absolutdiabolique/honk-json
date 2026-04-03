@@ -19,7 +19,7 @@
   "bullets": [],
   "bulletTriggers": [],
   "layers": {
-    "currentLayer": 1,
+    "currentLayer": 3,
     "maxLayers": 3
   },
   "genericObjects": [
@@ -4519,6 +4519,69 @@
       "mR": 75,
       "direction": "up",
       "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2575,
+      "y": 3451,
+      "s": 0.8,
+      "l": 3
+    },
+    {
+      "type": "startPointFlag",
+      "x": 2612,
+      "y": 3,
+      "z": 60,
+      "isTriggered": false
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2595,
+      "y": 3491,
+      "s": 0.8,
+      "l": 3
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2615,
+      "y": 3451,
+      "s": 0.8,
+      "l": 3
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2635,
+      "y": 3491,
+      "s": 0.8,
+      "l": 3
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2655,
+      "y": 3451,
+      "s": 0.8,
+      "l": 3
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2675,
+      "y": 3491,
+      "s": 0.8,
+      "l": 3
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2695,
+      "y": 3451,
+      "s": 0.8,
+      "l": 3
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2715,
+      "y": 3491,
+      "s": 0.8,
       "l": 3
     }
   ],
