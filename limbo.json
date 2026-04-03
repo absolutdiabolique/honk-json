@@ -4242,9 +4242,287 @@
       "mR": 75,
       "direction": "up",
       "st": "moving_up"
+    },
+    {
+      "type": "invincibilityStar",
+      "x": 139.396,
+      "y": 286.951,
+      "invincibilityDuration": 30
+    },
+    {
+      "type": "iceBlock",
+      "x": 2051,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2114.9,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2178.8,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2242.7,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2306.6,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2370.5,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2434.4,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2498.3,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2562.2,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2626.1,
+      "y": 76
+    },
+    {
+      "type": "iceBlock",
+      "x": 2051,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2114.9,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2178.8,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2242.7,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2306.6,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2370.5,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2434.4,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2498.3,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2562.2,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "iceBlock",
+      "x": 2626.1,
+      "y": -62,
+      "fY": true
+    },
+    {
+      "type": "antiGravityApple",
+      "x": 2004,
+      "y": 5
+    },
+    {
+      "type": "PipeBody",
+      "x": 1994,
+      "y": 125,
+      "z": 4
+    },
+    {
+      "type": "colorBlock",
+      "x": 2609,
+      "y": 54,
+      "s": -20,
+      "color": "#000000",
+      "z": 100,
+      "l": 3
+    },
+    {
+      "type": "teleporter",
+      "x": 2656,
+      "y": 7,
+      "cooldownDuration": 1,
+      "teleporterPairId": "pair_FQZR",
+      "teleporterId": "tp_MV0LPE",
+      "transitionDuration": 200,
+      "color": "#ffffff",
+      "syncColorWithPair": true
+    },
+    {
+      "type": "teleporter",
+      "x": 2537,
+      "y": 3471,
+      "cooldownDuration": 1,
+      "teleporterPairId": "pair_FQZR",
+      "teleporterId": "tp_YGXK00",
+      "transitionDuration": 200,
+      "color": "#ffffff",
+      "syncColorWithPair": true
+    },
+    {
+      "type": "thwompPipe",
+      "x": 2670,
+      "y": 3414,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 2970,
+      "y": 3414,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 3270,
+      "y": 3414,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 3570,
+      "y": 3414,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 3870,
+      "y": 3414,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 2670,
+      "y": 3530,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 2970,
+      "y": 3530,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 3270,
+      "y": 3530,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 3570,
+      "y": 3530,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
+    },
+    {
+      "type": "thwompPipe",
+      "x": 3870,
+      "y": 3530,
+      "a": 1.571,
+      "uS": 0,
+      "dS": 0,
+      "mR": 75,
+      "direction": "up",
+      "st": "moving_up",
+      "l": 3
     }
   ],
-  "finishLineX": 2329,
+  "finishLineX": 4802,
   "completionRequirement": {
     "type": "crossFinishLine"
   },
